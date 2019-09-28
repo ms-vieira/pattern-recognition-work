@@ -1,6 +1,7 @@
 ### Pattern Recognition Work
 
-#####Objetivo
+##### Objetivo
+
 Escrever um programa que leia uma arquivo texto contendo os dados
 de um conjunto de amostras e implementar o algoritmo k-NN com a metodologia de
 validação cruzada k-fold. Ao final, o programa deverá informar a taxa de acertos
